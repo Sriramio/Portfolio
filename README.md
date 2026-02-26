@@ -41,7 +41,7 @@ This is my **first ever portfolio** and will be improved as I learn more.
 
 ## 👨‍💻 About Me  
 
-I'm a **first-semester Computer Science student**, currently exploring:
+I'm a **second-semester Computer Science student**, currently exploring:
 
 - Web Development  
 - Programming  
