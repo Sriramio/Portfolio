@@ -1,14 +1,12 @@
 # 🌐 My First Portfolio Website  
 
-Welcome to the GitHub repository of my **personal portfolio website**.
-
-This project was created during my **1st semester of B.Tech CSE** as part of my journey into web development.
+Welcome to the GitHub repository of my personal portfolio website.
 
 ---
 
 ## 🚀 Live Website  
 
-👉 **https://sripada-sriram.vercel.app/**  
+👉 https://sripada-sriram.vercel.app
 
 This is the publicly deployed version of my website, hosted on **Vercel**.
 
@@ -18,35 +16,23 @@ This is the publicly deployed version of my website, hosted on **Vercel**.
 
 This portfolio is built using:
 
-- **HTML**
-- **CSS**
-- **JavaScript**
+- HTML
+- CSS
+- JavaScript
 
-No frameworks — just core web fundamentals.
+No libraries and frameworks — just core web fundamentals, cause why not?
 
 ---
 
 ## 📌 About the Project  
 
-The goal of this website is to:
-
-- Practice front-end development  
-- Learn the basics of hosting & deployment  
-- Build a personal online presence  
-- Create a platform to showcase future projects  
-
-This is my **first ever portfolio** and will be improved as I learn more.
-
+This project is built using particles, gradients and 3D shapes.
 ---
 
 ## 👨‍💻 About Me  
 
-I'm a **second-semester Computer Science student**, currently exploring:
+Sleep deprived dev who deploys stuff on cloud.
 
-- Web Development  
-- Programming  
-- Design  
-- Deployments  
-- Real-life tech skills  
+I'm into open source stuff. Open to collaboration.
 
-Feel free to connect with me or check out more of my work as I grow!
+Feel free to contact me!
