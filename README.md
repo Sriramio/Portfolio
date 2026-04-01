@@ -31,7 +31,7 @@ This project is built using particles, gradients and 3D shapes.
 
 ## 👨‍💻 About Me  
 
-Sleep deprived dev who deploys stuff on cloud.
+A Sleep Deprived Software Engineer who deploys stuff on Cloud.
 
 I'm into open source stuff. Open to collaboration.
 
