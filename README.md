@@ -20,7 +20,7 @@ This portfolio is built using:
 - CSS
 - JavaScript
 
-No libraries and frameworks — just core web fundamentals, cause why not?
+No Libraries and Frameworks — just core Web Fundamentals, cause why not?
 
 ---
 
@@ -33,6 +33,6 @@ This project is built using particles, gradients and 3D shapes.
 
 A Sleep Deprived Software Engineer who deploys stuff on Cloud.
 
-I'm into open source stuff. Open to collaboration.
+I'm into Open Source Stuff. Open to Collaboration.
 
 Feel free to contact me!
